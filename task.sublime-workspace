@@ -1,0 +1,2080 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newTask"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"Todo",
+				"TodoSchema"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"total",
+				"totalStagesIntlInvestor"
+			],
+			[
+				"totalStag",
+				"totalStagesIntlInvestor"
+			],
+			[
+				"totalS",
+				"totalStagesIntlInvestor"
+			],
+			[
+				"onboarding",
+				"onboardingType"
+			],
+			[
+				"acc",
+				"accreditation"
+			],
+			[
+				"enc",
+				"encrpyt_users"
+			],
+			[
+				"u_type",
+				"u_type_shareholder"
+			],
+			[
+				"uper",
+				"uppercase"
+			],
+			[
+				"invest",
+				"investment"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"inves",
+				"investment"
+			],
+			[
+				"co",
+				"Company"
+			],
+			[
+				"share",
+				"share_certificate"
+			],
+			[
+				"require",
+				"required_label"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"oppo",
+				"opportunity-list"
+			],
+			[
+				"onboar",
+				"onboardingType"
+			],
+			[
+				"que",
+				"questions"
+			],
+			[
+				"respon",
+				"response_body"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"curn",
+				"current_user"
+			],
+			[
+				"investor",
+				"shareholder_and_investor"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"curre",
+				"current_user"
+			],
+			[
+				"bank",
+				"bank_accounts"
+			],
+			[
+				"onb",
+				"onboarding-header"
+			],
+			[
+				"tota",
+				"totalStages"
+			],
+			[
+				"inve",
+				"investment"
+			],
+			[
+				"invesment",
+				"invesmentAmount"
+			],
+			[
+				"update",
+				"update_attributes"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"com",
+				"company_name"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"port",
+				"portfolio_value"
+			],
+			[
+				"of",
+				"offer_id"
+			],
+			[
+				"offer",
+				"offer_id"
+			],
+			[
+				"compa",
+				"company"
+			],
+			[
+				"sha",
+				"shareholder"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"summ",
+				"summary_of_terms"
+			],
+			[
+				"aler",
+				"alert"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"compay",
+				"company-show"
+			],
+			[
+				"ss",
+				"ssn2"
+			],
+			[
+				"ssn",
+				"ssn3"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"col-sm-",
+				"col-sm-6"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"o_s",
+				"o_statuses"
+			],
+			[
+				"col-",
+				"col-xs-12"
+			],
+			[
+				"o_st",
+				"o_status"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"prve",
+				"preventDefault"
+			],
+			[
+				"user",
+				"user_params"
+			],
+			[
+				"sign",
+				"signed_in"
+			],
+			[
+				"param",
+				"params"
+			],
+			[
+				"el",
+				"elsif"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"show",
+				"showAlert"
+			],
+			[
+				"option",
+				"option-label"
+			],
+			[
+				"rad",
+				"radio"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"off",
+				"offer"
+			],
+			[
+				"client",
+				"client_id"
+			],
+			[
+				"trans",
+				"transaction"
+			],
+			[
+				"marke",
+				"markets_fund"
+			],
+			[
+				"mark",
+				"markets"
+			],
+			[
+				"nav",
+				"navbar-toggle"
+			],
+			[
+				"cur",
+				"current_user"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"home-f",
+				"home-offer-industry"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"home-off",
+				"home-offer-item"
+			],
+			[
+				"home-o",
+				"home-offer-item"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"vist",
+				"visit"
+			],
+			[
+				"u_stat",
+				"u_statuses"
+			],
+			[
+				"onboard",
+				"onboarding_finished"
+			],
+			[
+				"load",
+				"loading-modal"
+			],
+			[
+				"loading",
+				"loading-modal-title"
+			],
+			[
+				"first",
+				"firstAttempt"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"ky",
+				"kyc_id"
+			],
+			[
+				"Transac",
+				"TransactApi"
+			],
+			[
+				"Trans",
+				"TransactApi"
+			],
+			[
+				"response",
+				"response_body"
+			],
+			[
+				"On",
+				"onboarding_finished"
+			],
+			[
+				"compan",
+				"company_id"
+			],
+			[
+				"comp",
+				"company"
+			],
+			[
+				"company",
+				"company_name"
+			],
+			[
+				"cop",
+				"company_id"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"click",
+				"click_link"
+			],
+			[
+				"Comp",
+				"Company"
+			],
+			[
+				"Com",
+				"company"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"Ad",
+				"Address"
+			],
+			[
+				"fill",
+				"fill_in"
+			],
+			[
+				"beta",
+				"beta_approved"
+			],
+			[
+				"ev",
+				"env"
+			],
+			[
+				"users",
+				"users_path"
+			],
+			[
+				"tr",
+				"trait"
+			],
+			[
+				"styl",
+				"style"
+			],
+			[
+				"parm",
+				"params"
+			],
+			[
+				"sharehol",
+				"shareholder"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"proces",
+				"process_company"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"omni",
+				"omniauth_params"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"sharehold",
+				"shareholderType"
+			],
+			[
+				"company-a",
+				"company-autocomplete-list"
+			],
+			[
+				"root",
+				"root_path"
+			],
+			[
+				"visi",
+				"visit"
+			],
+			[
+				"offers",
+				"offers_path"
+			],
+			[
+				"roo",
+				"root_path"
+			],
+			[
+				"sidebar",
+				"sidebarLink"
+			],
+			[
+				"sub",
+				"subject"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tasks/app.js",
+			"settings":
+			{
+				"buffer_size": 988,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tasks/routes/tasks.js",
+			"settings":
+			{
+				"buffer_size": 1374,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tasks/views/index.ejs",
+			"settings":
+			{
+				"buffer_size": 1946,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bennettl/Desktop/General Assembly/Workshops/APIs/Tasks/tasks/public/main.js",
+		"/Users/bennettl/Desktop/General Assembly/Workshops/APIs/Tasks/tasks/public/javascripts/main.js",
+		"/Users/bennettl/Desktop/General Assembly/Workshops/APIs/Tasks/tasks/public/main.css",
+		"/Users/bennettl/Desktop/Project/Demos/Tasks/tasks/models/task.js",
+		"/Users/bennettl/Desktop/Project/Demos/Tasks/tasks/models/Task.js",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/models/user.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/controllers/users_controller.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/db/migrate/20151018223031_add_international_to_users.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/users/_shareholder_form.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/users/new.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/users/investor/_auctions.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/lib/tasks/populate_db.rake",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/assets/stylesheets/application.css.scss",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/assets/javascripts/application.js",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/spec/support/helpers.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/spec/features/company.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/spec/rails_helper.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/spec/spec_helper.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/Gemfile",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/helpers/transact_api_helper.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/controllers/investments_controller.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/static_pages/index.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/layouts/application.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/controllers/static_pages_controller.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/posts/index.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/controllers/posts_controller.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/static_pages/block.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/layouts/_header.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/posts/_post.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/static_pages/investor.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/companies/show.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/models/company_funding.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/models/comment.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/models/bank_account.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/layouts/_footer.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/controllers/application_controller.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/db/migrate/20150928065020_change_vaulation_for_companies.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/db/migrate/20150408180817_create_users.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/users/show.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/admin/auctions/show.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/config/environments/development.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/lib/tasks/encrpyt_db.rake",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/db/migrate/20150925173206_remote_unencrpyted_columns_from_users.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/config/environments/production.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/config/environments/staging.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/users/_basic_information_form.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/controllers/bank_accounts_controller.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/db/migrate/20150925170346_add_encrpytion_to_users.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/db/migrate/20150925171501_remove_unencrpyted_columns_from_users.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/controllers/omniauth_callbacks_controller.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/offers/_show.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/offers/_form.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/users/_investor_form.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/config/application.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/layouts/_head.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/investments/summary_of_terms.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/offers/live.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/posts/show.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/user_mailer/offer_live.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/users/investor/investment_detail.js.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/opportunities/_opportunityGridItem.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/modals/_signup.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/opportunities/_opportunityList.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/opportunities/_opportunityListItem.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/investments/show.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/db/migrate/20150912234338_remove_status_column_from_investments.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/assets/stylesheets/index.css.scss",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/layouts/_sidebar.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/config/data/user_dump.json",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/config/data/user_dump_prod.json",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/admin/auctions/_form.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/config/data/post_dump.json",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/mailers/admin_mailer.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/assets/stylesheets/mailer.css.scss",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/layouts/application_mailer.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/mailers/user_mailer.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/test/mailers/previews/user_preview.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/admin_mailer/offer_marketx_fund.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/controllers/offers_controller.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/models/investment.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/models/offer.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/auctions/show.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/users/_user.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/helpers/hello_sign_helper.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/config/routes.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/db/schema.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/user_mailer/offer_approved.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/lib/tasks/test_hellosign.rake",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/controllers/auctions_controller.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/controllers/admin/auctions_controller.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/admin/auctions/new.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/admin/auctions/index.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/admin/auctions/_form.js",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/controllers/companies_controller.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/user_mailer/company_follow_live.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/models/company.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/admin/sidebar/companies.js.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/admin/sidebar/auctions.js.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/users/index.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/controllers/admin_controller.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/models/auction.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/db/migrate/20150917171639_add_last_visited_to_users.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/db/migrate/20150916040635_add_historical_price_to_auctions.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/users/kyc_questions.js.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/spec/features/offer.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/users/investor/_investments.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/investments/show.js.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/investments/index.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/offers/show.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/layouts/_account_menu.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/admin/index.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/shared/_dashboard.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/admin/auctions/_statusHeader.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/config/data/company_dump.json",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/lib/tasks/test_api.rake",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/config/data/dumm_user_dum.json",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/config/initializers/setup_mail.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/config/environment.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/helpers/application_helper.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/models/user_sector.rb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/users/_investor_form_old.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/static_pages/contact.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/users/_kyc_questions.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/shared/index_headers/_header_sortable.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/offers/index.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/companies/index.html.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/users/index.js.erb",
+		"/Users/bennettl/Desktop/Project/MarketX/Web/marketx/app/views/offers/show.js.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.html.erb",
+			"",
+			"*.html.erb",
+			"",
+			"*.html.erb",
+			"",
+			"*.html.erb",
+			"",
+			"width: 97%; margin: 1.5%;",
+			"",
+			"*.html.erb",
+			"",
+			"*.html.erb",
+			"",
+			"*.js",
+			"*.rb",
+			"",
+			"*.html.erb",
+			"",
+			"*.html.erb",
+			"",
+			"*html.erb",
+			"",
+			"*html.erb",
+			"",
+			"*.html.erb",
+			"",
+			"*html.erb",
+			"",
+			"*.html.erb",
+			"",
+			"*.css",
+			"",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"*.css",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"",
+			"*.dust",
+			"",
+			"*.js",
+			"*.dust",
+			"",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"*.css",
+			"*.js",
+			"",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"*.dust",
+			"*.css",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"*.js",
+			".js",
+			"",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			"*.js",
+			"*.dust",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"setupOnboardingIntlI",
+			"loadKYCForm",
+			"displayStage('int",
+			"displayStage",
+			"loadKYCForm",
+			"investor",
+			"state",
+			"user_country",
+			"accreditation",
+			"generate_confirmation_token",
+			"checkbox",
+			"I am a",
+			"gsub",
+			"number_to_curre",
+			"Warden",
+			"config.include Warden::Test::Helpers",
+			"Warden",
+			"Warden's",
+			"login_as",
+			"which",
+			"_helper",
+			".match",
+			"match",
+			"number_with",
+			"class",
+			"delete_issuer",
+			"delete_investor",
+			"banned",
+			"blog",
+			"as_json",
+			"options[:view]",
+			"option[:view]",
+			"Our marketplace gives its members access to a large international pool of verifie",
+			"is_admin",
+			"email",
+			"isValidName",
+			"user[",
+			"_validator",
+			"companies",
+			"nav",
+			"company-show ",
+			"company-show nav-tabs",
+			"tab",
+			"active",
+			"tab",
+			"setupCompany",
+			"fade",
+			"javascript:",
+			"back",
+			"deleteexternal_account",
+			"home-offers",
+			"edit_offer",
+			"offer[o_status]",
+			"o_statuses",
+			"Offer",
+			"@offer",
+			"\"AL\", \"AK\", \"AS\", \"A",
+			"omniauth_params",
+			"from_omniauth",
+			"652200715570-f90nmgtvc2ui36bhfs8fu76jvpifesj3.apps.googleusercontent.com",
+			"setupOffer",
+			"file",
+			"validat",
+			"validate",
+			"delete_inves",
+			"delete",
+			"delete_inve",
+			"image_tag c.user.avatar",
+			"company-live",
+			"users/show",
+			".opportunity-",
+			".follow",
+			"width: 100%",
+			".foll",
+			"company-live",
+			".live",
+			"f_c",
+			"nda",
+			"pdf-container",
+			"datetime_select",
+			"date",
+			"TREE",
+			"Peach",
+			"userType",
+			"setupSignUp",
+			"shareholder.company",
+			"#brand",
+			"brand",
+			"company_name",
+			"http://docs.",
+			"delete_investor",
+			"create_investor_record",
+			"number_with_de",
+			"number_to_cur",
+			"create_embedded_with_template",
+			"HelloS",
+			"@user",
+			"iframe",
+			"displayStage",
+			"Rails.env",
+			"displayStage",
+			"step",
+			"displayStage",
+			"action-button-next",
+			"HelloSign.open",
+			"Hellosign.open",
+			"offers",
+			"PUT",
+			"'submit'",
+			"offer_",
+			"update",
+			"Congratulations, your shareholder account has been verified. You are one step away from making your offer viewable to investors",
+			"offer_approved",
+			"sign",
+			"merge!",
+			"create_embedded_signature_request",
+			"HelloSignApi",
+			"available_offers",
+			"company",
+			"new",
+			"required_label",
+			"At least",
+			"document",
+			"onboarding_",
+			"number_field",
+			"-thumb",
+			"thumb",
+			"company-previ"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"u_statuses",
+			"User",
+			"@user",
+			"user",
+			"auction",
+			"company",
+			"text_field",
+			"series\": \"E",
+			"series\": \"D",
+			"series\": \"A",
+			"series\": \"B",
+			"series\": \"C",
+			"width: 97%; margin: 1.5%;",
+			"",
+			"subvalue",
+			"subtitle",
+			"investment",
+			"<span class=\"option-label\">",
+			"Investment",
+			"investment",
+			"<span class=\"option-label\">",
+			"us_resident?",
+			"us_citizen",
+			"margin: 0px 0 15px -8px;",
+			"row form-group",
+			"investment",
+			"investment_id",
+			"investment",
+			"Investment",
+			"investment",
+			"&",
+			"onboarding_finished_shareholder",
+			"onboarding_finished_investor",
+			"loadKYCForm",
+			"setupKYCForm",
+			"Investment",
+			"investment",
+			"photoId",
+			"due_diligence",
+			"closed",
+			"\\r",
+			"\\n",
+			"$(document).off('', '').on",
+			"\"#{@@TEMPLATES_PATH_SHAREHOLDER}/",
+			"\"#{@@TEMPLATES_PATH_INVESTOR}/",
+			"\"#{@@TEMPLATES_PATH_INVESTOR}",
+			"option-label",
+			"investor",
+			"investor_type",
+			"<li class=\"option clearfix\"",
+			"<li class=\"option clearfix",
+			"<div class=\"option clearfix",
+			"div class=\"option-label\"",
+			"path",
+			"stageLiveOffer",
+			"",
+			"qns",
+			"type",
+			"question",
+			"Execute enpoint with callback",
+			"|success, response_body|",
+			"attach_file('offer_share_certificate', document)",
+			"find(:file_field, 'offer_share_certificate', {}).set(document)",
+			"page.attach_file",
+			"offer_share_certificate",
+			"totalStagesOffer",
+			"stageOffer",
+			"setupOnboardingOffer",
+			"new-offer",
+			"visibleItems",
+			"input[name=\"user[company_name]\"]",
+			"user[company_name]",
+			"companies_path",
+			"row",
+			"investor_img",
+			"",
+			".alert",
+			"",
+			"&",
+			"'",
+			"",
+			"secondaryPurple",
+			"$mainPurple",
+			"\\n",
+			"Comment",
+			"comment",
+			"c",
+			"opportunity",
+			"post",
+			"posts",
+			"post",
+			"Post",
+			"posts",
+			"/",
+			"\"",
+			"self",
+			"MANAGEMENT",
+			"Newsletter",
+			"posted_on:",
+			"title:",
+			"url:",
+			"Newsletters",
+			"newsletter",
+			"newsletters",
+			"newsletter",
+			"Newsletter",
+			"newletter",
+			"text_field_tag",
+			"label_tag",
+			"bank_account[",
+			"text_field_tag 'user[",
+			"f.text_field 'user[",
+			"label_tag 'user[",
+			"]', ",
+			"', ]",
+			"label_tag '[",
+			"user_bank_account",
+			"based on",
+			"answer_",
+			", ",
+			": user.answer ,",
+			"answer",
+			"clientID:  @@client_id,",
+			"\n        ",
+			": '',",
+			",",
+			":",
+			"    <a id=\"back-btn\"href=\"javascript:history.back()\">&#8592; Back</a>"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tasks/app.js",
+					"settings":
+					{
+						"buffer_size": 988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tasks/routes/tasks.js",
+					"settings":
+					{
+						"buffer_size": 1374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1156,
+								1156
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 167.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tasks/views/index.ejs",
+					"settings":
+					{
+						"buffer_size": 1946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								576,
+								576
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 828.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"views/index.ejs"
+			],
+			[
+				"maincss",
+				"public/main.css"
+			],
+			[
+				"tasks",
+				"routes/tasks.js"
+			],
+			[
+				"userscon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"usersedit",
+				"app/views/users/edit.html.erb"
+			],
+			[
+				"internationa",
+				"app/views/users/_international_investor_form.html.erb"
+			],
+			[
+				"application",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"onboarding",
+				"app/views/static_pages/onboarding.html.erb"
+			],
+			[
+				"investorform",
+				"app/views/users/_investor_form.html.erb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"transactapi",
+				"app/helpers/transact_api_helper.rb"
+			],
+			[
+				"basic",
+				"app/views/users/_basic_information_form.html.erb"
+			],
+			[
+				"applicationjs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"investorfor",
+				"app/views/users/_investor_form.html.erb"
+			],
+			[
+				"shareholderfo",
+				"app/views/users/_shareholder_form.html.erb"
+			],
+			[
+				"usersnew",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"investoronb",
+				"app/views/users/investor/_auctions.html.erb"
+			],
+			[
+				"add_in",
+				"db/migrate/20151018223031_add_international_to_users.rb"
+			],
+			[
+				"userr",
+				"app/models/user.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"pop",
+				"lib/tasks/populate_db.rake"
+			],
+			[
+				"applicationcss",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"supporthelp",
+				"spec/support/helpers.rb"
+			],
+			[
+				"speche",
+				"spec/spec_helper.rb"
+			],
+			[
+				"transactap",
+				"app/helpers/transact_api_helper.rb"
+			],
+			[
+				"staticpagesind",
+				"app/views/static_pages/index.html.erb"
+			],
+			[
+				"applicationcsssc",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"applicationhtmler",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"userrb",
+				"app/models/user.rb"
+			],
+			[
+				"staticpagescon",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"popu",
+				"lib/tasks/populate_db.rake"
+			],
+			[
+				"posthtmler",
+				"app/views/posts/_post.html.erb"
+			],
+			[
+				"postinde",
+				"app/views/posts/index.html.erb"
+			],
+			[
+				"postscon",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"header",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"comment",
+				"app/models/comment.rb"
+			],
+			[
+				"footerhtml",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"applicationcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applic",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"companiesshow",
+				"app/views/companies/show.html.erb"
+			],
+			[
+				"usershow",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"encr",
+				"lib/tasks/encrpyt_db.rake"
+			],
+			[
+				"staging",
+				"config/environments/staging.rb"
+			],
+			[
+				"rodc",
+				"config/environments/production.rb"
+			],
+			[
+				"staticpages",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"developmentr",
+				"config/environments/development.rb"
+			],
+			[
+				"staticpage",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"staticpagesc",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"static",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"bankaccountrb",
+				"app/models/bank_account.rb"
+			],
+			[
+				"bankacc",
+				"app/controllers/bank_accounts_controller.rb"
+			],
+			[
+				"stati",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"offersshow",
+				"app/views/offers/_show.html.erb"
+			],
+			[
+				"offerform",
+				"app/views/offers/_form.html.erb"
+			],
+			[
+				"basicinform",
+				"app/views/users/_basic_information_form.html.erb"
+			],
+			[
+				"applicationhtml",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"applicat",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"staticpagesinde",
+				"app/views/static_pages/index.html.erb"
+			],
+			[
+				"applicationrb",
+				"config/application.rb"
+			],
+			[
+				"layouthead",
+				"app/views/layouts/_head.html.erb"
+			],
+			[
+				"summary",
+				"app/views/investments/summary_of_terms.html.erb"
+			],
+			[
+				"staticpa",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"offerlive",
+				"app/views/offers/live.html.erb"
+			],
+			[
+				"offersform",
+				"app/views/offers/_form.html.erb"
+			],
+			[
+				"applicationcssc",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"userdetai",
+				"app/views/users/investor/investment_detail.js.erb"
+			],
+			[
+				"signup",
+				"app/views/modals/_signup.html.erb"
+			],
+			[
+				"oportuntiygr",
+				"app/views/opportunities/_opportunityGridItem.html.erb"
+			],
+			[
+				"opportunitieslisti",
+				"app/views/opportunities/_opportunityListItem.html.erb"
+			],
+			[
+				"opporu",
+				"app/views/opportunities/_opportunityList.html.erb"
+			],
+			[
+				"staticp",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"shareholderform",
+				"app/views/users/_shareholder_form.html.erb"
+			],
+			[
+				"stait",
+				"db/migrate/20150912234338_remove_status_column_from_investments.rb"
+			],
+			[
+				"basicinformation",
+				"app/views/users/_basic_information_form.html.erb"
+			],
+			[
+				"auctionform",
+				"app/views/admin/auctions/_form.html.erb"
+			],
+			[
+				"postdum",
+				"config/data/post_dump.json"
+			],
+			[
+				"userumd",
+				"config/data/user_dump_prod.json"
+			],
+			[
+				"userdum",
+				"config/data/user_dump_prod.json"
+			],
+			[
+				"dump",
+				"config/data/user_dump.json"
+			],
+			[
+				"indexcsssc",
+				"app/assets/stylesheets/index.css.scss"
+			],
+			[
+				"applicationmailer",
+				"app/views/layouts/application_mailer.erb"
+			],
+			[
+				"usermailer",
+				"app/mailers/user_mailer.rb"
+			],
+			[
+				"statiac",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"userpreview",
+				"test/mailers/previews/user_preview.rb"
+			],
+			[
+				"usermail",
+				"app/mailers/user_mailer.rb"
+			],
+			[
+				"mailer",
+				"app/views/layouts/application_mailer.erb"
+			],
+			[
+				"mailercssc",
+				"app/assets/stylesheets/mailer.css.scss"
+			],
+			[
+				"adminmai",
+				"app/mailers/admin_mailer.rb"
+			],
+			[
+				"adminmau",
+				"app/views/admin_mailer/offer_marketx_fund.erb"
+			],
+			[
+				"sidebar",
+				"app/views/layouts/_sidebar.html.erb"
+			],
+			[
+				"offercon",
+				"app/controllers/offers_controller.rb"
+			],
+			[
+				"invesmentshow",
+				"app/views/investments/show.html.erb"
+			],
+			[
+				"offer",
+				"app/models/offer.rb"
+			],
+			[
+				"userhtmlerb",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"investm",
+				"app/models/investment.rb"
+			],
+			[
+				"investmentscon",
+				"app/controllers/investments_controller.rb"
+			],
+			[
+				"offerscon",
+				"app/controllers/offers_controller.rb"
+			],
+			[
+				"transact",
+				"app/helpers/transact_api_helper.rb"
+			],
+			[
+				"trans",
+				"app/helpers/transact_api_helper.rb"
+			],
+			[
+				"livehtml",
+				"app/views/offers/live.html.erb"
+			],
+			[
+				"offersfor",
+				"app/views/offers/_form.html.erb"
+			],
+			[
+				"applicationsc",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"summaryo",
+				"app/views/investments/summary_of_terms.html.erb"
+			],
+			[
+				"offerapp",
+				"app/views/user_mailer/offer_approved.html.erb"
+			],
+			[
+				"offerappr",
+				"app/views/user_mailer/offer_approved.html.erb"
+			],
+			[
+				"usermaier",
+				"app/mailers/user_mailer.rb"
+			],
+			[
+				"offerliveh",
+				"app/views/offers/live.html.erb"
+			],
+			[
+				"auctioncon",
+				"app/controllers/auctions_controller.rb"
+			],
+			[
+				"auctionnew",
+				"app/views/admin/auctions/new.html.erb"
+			],
+			[
+				"auctionindex",
+				"app/views/admin/auctions/index.html.erb"
+			],
+			[
+				"auctionshow",
+				"app/views/auctions/show.html.erb"
+			],
+			[
+				"offershow",
+				"app/views/offers/_show.html.erb"
+			],
+			[
+				"opporutnitie",
+				"app/views/opportunities/_opportunityList.html.erb"
+			],
+			[
+				"companyfollow",
+				"app/views/user_mailer/company_follow_live.html.erb"
+			],
+			[
+				"companyrb",
+				"app/models/company.rb"
+			],
+			[
+				"companiescon",
+				"app/controllers/companies_controller.rb"
+			],
+			[
+				"_auctionhte",
+				"app/views/users/investor/_auctions.html.erb"
+			],
+			[
+				"auctionsinde",
+				"app/views/admin/auctions/index.html.erb"
+			],
+			[
+				"auctionsjs",
+				"app/views/admin/sidebar/auctions.js.erb"
+			],
+			[
+				"sidebarcompa",
+				"app/views/admin/sidebar/companies.js.erb"
+			],
+			[
+				"action",
+				"app/models/auction.rb"
+			],
+			[
+				"admincon",
+				"app/controllers/admin_controller.rb"
+			],
+			[
+				"usersindex",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"stat",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"shareholderfor",
+				"app/views/users/_shareholder_form.html.erb"
+			],
+			[
+				"quets",
+				"app/views/users/kyc_questions.js.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true
+}
